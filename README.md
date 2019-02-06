@@ -4,7 +4,7 @@ This is a test aimed at thoroughly evaluating the knowledge, concepts, applicati
   - Webpage must be responsive.
   - PSD mockup must be broken down and turned into a webpage within 5 days of receiving email.
 
-**Recommended experience bracket of target audience:** 0.5 - 2 years
+**Recommended experience bracket of target audience:** 0.5 - 2 years<space><space>
 **Difficulty level:** Moderate
 
 ### Why Use SFP's Skill Test
@@ -17,4 +17,4 @@ Key profiles the test is useful for:
   - Web Designer
   - UI Developer
 
-Please send all final submissions to rob@sfp.net
+Please send final submissions to rob@sfp.net
