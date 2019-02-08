@@ -18,4 +18,4 @@ Key profiles the test is useful for:
   - Web Designer
   - UI Developer
 
-Please send final submissions to rob@sfp.net
+Please send final packaged project or associated github repository link to rob@sfp.net
